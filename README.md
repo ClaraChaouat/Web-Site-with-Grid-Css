@@ -12,6 +12,11 @@ This project is one of the first one I built.
 1. Clone this repository from GitHub
 2. Open index.html in your browser.
 
+## Demo:man_dancing:
+Willing to play with the toolbar? Click on the link below :point_down: 
+
+https://learning-grid-bybuildingalayout.netlify.app/
+
 ## Technologies:man_technologist:
 This project is built using:
 - Grid,
