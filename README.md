@@ -5,7 +5,7 @@
 
 ## Description:woman_teacher:
 The goal of the project is to get familar with Grid css.
-This project is one of the first one I built.
+This project is one of the first I built.
 
 
 ## Installation:man_mechanic:
