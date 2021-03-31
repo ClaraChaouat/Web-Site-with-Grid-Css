@@ -1,4 +1,4 @@
-# Learning Grid css by building a layout
+# Learning Grid css by building a responsive app
 <p align="center">
   <img width="700" src="./img/layoutgrid.gif"/>
 </p>
